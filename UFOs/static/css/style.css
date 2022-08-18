@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("https://www.nasa.gov/sites/default/files/images/297755main_GPN-2001-000009_full.jpg");
+  background-image: url("../images/nasa.jpg");
   background-size: 100% 100%;
   text-align: center;
 }
